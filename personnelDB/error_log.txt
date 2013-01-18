@@ -1,0 +1,224 @@
+[09-Nov-2012 13:10:58] PHP Fatal error:  Made It To server Properly in /var/www/services/personnelDB/include/config.php on line 5
+[09-Nov-2012 13:11:30] PHP Fatal error:  Made It To server Properly in /var/www/services/personnelDB/include/config.php on line 5
+[09-Nov-2012 13:11:34] PHP Fatal error:  Made It To server Properly in /var/www/services/personnelDB/include/config.php on line 5
+[09-Nov-2012 13:12:21] PHP Fatal error:  Made It To server Properly in /var/www/services/personnelDB/include/config.php on line 5
+[09-Nov-2012 13:45:41] PHP Notice:  Undefined offset: 1 in /var/www/services/personnelDB/include/handlers.php on line 83
+[09-Nov-2012 13:45:41] PHP Fatal error:  Made It To handlers Properly in /var/www/services/personnelDB/include/handlers.php on line 85
+[09-Nov-2012 15:24:26] PHP Notice:  Undefined offset: 1 in /var/www/services/personnelDB/include/handlers.php on line 83
+[09-Nov-2012 15:24:26] PHP Fatal error:  Made It To handlers Properly in /var/www/services/personnelDB/include/handlers.php on line 86
+[09-Nov-2012 15:30:54] PHP Notice:  Undefined offset: 1 in /var/www/services/personnelDB/include/handlers.php on line 83
+[09-Nov-2012 15:30:54] PHP Notice:  Made It To handlers Properly in /var/www/services/personnelDB/include/handlers.php on line 86
+[09-Nov-2012 15:30:54] PHP Fatal error:  Uncaught exception 'Exception' with message 'Attempt to create unknown store type: ' in /var/www/lib/personnelDB/PersonnelDB.php:160
+Stack trace:
+#0 /var/www/services/personnelDB/include/handlers.php(95): PersonnelDB\PersonnelDB->__get('')
+#1 [internal function]: getEntityByAcronym(Object(WSWG\RESTServer), Array)
+#2 /var/www/lib/RESTServer/RESTServer.php(128): call_user_func_array('getEntityByAcro...', Array)
+#3 /var/www/services/personnelDB/server.php(60): WSWG\RESTServer->processCurrentRequest()
+#4 {main}
+  thrown in /var/www/lib/personnelDB/PersonnelDB.php on line 160
+[09-Nov-2012 15:34:42] PHP Notice:  Undefined offset: 1 in /var/www/services/personnelDB/include/handlers.php on line 83
+[09-Nov-2012 15:34:42] PHP Notice:  Made It To handlers Properly in /var/www/services/personnelDB/include/handlers.php on line 86
+[09-Nov-2012 15:34:42] PHP Fatal error:  Uncaught exception 'Exception' with message 'Attempt to create unknown store type: ' in /var/www/lib/personnelDB/PersonnelDB.php:160
+Stack trace:
+#0 /var/www/services/personnelDB/include/handlers.php(95): PersonnelDB\PersonnelDB->__get('')
+#1 [internal function]: getEntityByAcronym(Object(WSWG\RESTServer), Array)
+#2 /var/www/lib/RESTServer/RESTServer.php(128): call_user_func_array('getEntityByAcro...', Array)
+#3 /var/www/services/personnelDB/server.php(60): WSWG\RESTServer->processCurrentRequest()
+#4 {main}
+  thrown in /var/www/lib/personnelDB/PersonnelDB.php on line 160
+[09-Nov-2012 15:35:54] PHP Notice:  Undefined offset: 1 in /var/www/services/personnelDB/include/handlers.php on line 83
+[09-Nov-2012 15:35:54] PHP Notice:  Made It To handlers Properly in /var/www/services/personnelDB/include/handlers.php on line 86
+[09-Nov-2012 15:35:54] PHP Fatal error:  Uncaught exception 'Exception' with message 'Attempt to create unknown store type: ' in /var/www/lib/personnelDB/PersonnelDB.php:160
+Stack trace:
+#0 /var/www/services/personnelDB/include/handlers.php(95): PersonnelDB\PersonnelDB->__get('')
+#1 [internal function]: getEntityByAcronym(Object(WSWG\RESTServer), Array)
+#2 /var/www/lib/RESTServer/RESTServer.php(128): call_user_func_array('getEntityByAcro...', Array)
+#3 /var/www/services/personnelDB/server.php(60): WSWG\RESTServer->processCurrentRequest()
+#4 {main}
+  thrown in /var/www/lib/personnelDB/PersonnelDB.php on line 160
+[09-Nov-2012 15:38:48] PHP Notice:  Undefined offset: 1 in /var/www/services/personnelDB/include/handlers.php on line 83
+[09-Nov-2012 15:38:48] PHP Notice:  Made It To handlers Properly in /var/www/services/personnelDB/include/handlers.php on line 86
+[09-Nov-2012 15:38:48] PHP Fatal error:  Uncaught exception 'Exception' with message 'Attempt to create unknown store type: ' in /var/www/lib/personnelDB/PersonnelDB.php:160
+Stack trace:
+#0 /var/www/services/personnelDB/include/handlers.php(95): PersonnelDB\PersonnelDB->__get('')
+#1 [internal function]: getEntityByAcronym(Object(WSWG\RESTServer), Array)
+#2 /var/www/lib/RESTServer/RESTServer.php(128): call_user_func_array('getEntityByAcro...', Array)
+#3 /var/www/services/personnelDB/server.php(60): WSWG\RESTServer->processCurrentRequest()
+#4 {main}
+  thrown in /var/www/lib/personnelDB/PersonnelDB.php on line 160
+[09-Nov-2012 15:48:07] PHP Notice:  Undefined offset: 1 in /var/www/services/personnelDB/include/handlers.php on line 83
+[09-Nov-2012 15:48:07] PHP Notice:  Made It To handlers Properly in /var/www/services/personnelDB/include/handlers.php on line 86
+[09-Nov-2012 15:48:07] PHP Fatal error:  Uncaught exception 'Exception' with message 'Attempt to create unknown store type: ' in /var/www/lib/personnelDB/PersonnelDB.php:160
+Stack trace:
+#0 /var/www/services/personnelDB/include/handlers.php(95): PersonnelDB\PersonnelDB->__get('')
+#1 [internal function]: getEntityByAcronym(Object(WSWG\RESTServer), Array)
+#2 /var/www/lib/RESTServer/RESTServer.php(128): call_user_func_array('getEntityByAcro...', Array)
+#3 /var/www/services/personnelDB/server.php(60): WSWG\RESTServer->processCurrentRequest()
+#4 {main}
+  thrown in /var/www/lib/personnelDB/PersonnelDB.php on line 160
+[09-Nov-2012 15:48:52] PHP Notice:  Undefined offset: 1 in /var/www/services/personnelDB/include/handlers.php on line 83
+[09-Nov-2012 15:48:52] PHP Notice:  Made It To handlers Properly in /var/www/services/personnelDB/include/handlers.php on line 86
+[09-Nov-2012 15:48:52] PHP Fatal error:  Uncaught exception 'Exception' with message 'Attempt to create unknown store type: ' in /var/www/lib/personnelDB/PersonnelDB.php:160
+Stack trace:
+#0 /var/www/services/personnelDB/include/handlers.php(95): PersonnelDB\PersonnelDB->__get('')
+#1 [internal function]: getEntityByAcronym(Object(WSWG\RESTServer), Array)
+#2 /var/www/lib/RESTServer/RESTServer.php(128): call_user_func_array('getEntityByAcro...', Array)
+#3 /var/www/services/personnelDB/server.php(60): WSWG\RESTServer->processCurrentRequest()
+#4 {main}
+  thrown in /var/www/lib/personnelDB/PersonnelDB.php on line 160
+[09-Nov-2012 15:49:20] PHP Notice:  Undefined offset: 1 in /var/www/services/personnelDB/include/handlers.php on line 83
+[09-Nov-2012 15:49:21] PHP Notice:  Made It To handlers Properly in /var/www/services/personnelDB/include/handlers.php on line 86
+[09-Nov-2012 15:49:21] PHP Fatal error:  Uncaught exception 'Exception' with message 'Attempt to create unknown store type: ' in /var/www/lib/personnelDB/PersonnelDB.php:160
+Stack trace:
+#0 /var/www/services/personnelDB/include/handlers.php(95): PersonnelDB\PersonnelDB->__get('')
+#1 [internal function]: getEntityByAcronym(Object(WSWG\RESTServer), Array)
+#2 /var/www/lib/RESTServer/RESTServer.php(128): call_user_func_array('getEntityByAcro...', Array)
+#3 /var/www/services/personnelDB/server.php(60): WSWG\RESTServer->processCurrentRequest()
+#4 {main}
+  thrown in /var/www/lib/personnelDB/PersonnelDB.php on line 160
+[09-Nov-2012 15:53:45] PHP Notice:  Undefined offset: 1 in /var/www/services/personnelDB/include/handlers.php on line 83
+[09-Nov-2012 15:53:45] PHP Notice:  Made It To handlers Properly in /var/www/services/personnelDB/include/handlers.php on line 86
+[09-Nov-2012 15:53:45] PHP Fatal error:  Uncaught exception 'Exception' with message 'Attempt to create unknown store type: ' in /var/www/lib/personnelDB/PersonnelDB.php:160
+Stack trace:
+#0 /var/www/services/personnelDB/include/handlers.php(95): PersonnelDB\PersonnelDB->__get('')
+#1 [internal function]: getEntityByAcronym(Object(WSWG\RESTServer), Array)
+#2 /var/www/lib/RESTServer/RESTServer.php(128): call_user_func_array('getEntityByAcro...', Array)
+#3 /var/www/services/personnelDB/server.php(60): WSWG\RESTServer->processCurrentRequest()
+#4 {main}
+  thrown in /var/www/lib/personnelDB/PersonnelDB.php on line 160
+[09-Nov-2012 15:58:47] PHP Notice:  Undefined offset: 1 in /var/www/services/personnelDB/include/handlers.php on line 83
+[09-Nov-2012 15:58:47] PHP Notice:  Made It To handlers Properly in /var/www/services/personnelDB/include/handlers.php on line 86
+[09-Nov-2012 15:58:47] PHP Fatal error:  Uncaught exception 'Exception' with message 'Attempt to create unknown store type: ' in /var/www/lib/personnelDB/PersonnelDB.php:163
+Stack trace:
+#0 /var/www/services/personnelDB/include/handlers.php(95): PersonnelDB\PersonnelDB->__get('')
+#1 [internal function]: getEntityByAcronym(Object(WSWG\RESTServer), Array)
+#2 /var/www/lib/RESTServer/RESTServer.php(128): call_user_func_array('getEntityByAcro...', Array)
+#3 /var/www/services/personnelDB/server.php(60): WSWG\RESTServer->processCurrentRequest()
+#4 {main}
+  thrown in /var/www/lib/personnelDB/PersonnelDB.php on line 163
+[09-Nov-2012 16:01:34] PHP Notice:  Undefined offset: 1 in /var/www/services/personnelDB/include/handlers.php on line 83
+[09-Nov-2012 16:01:34] PHP Notice:  Made It To handlers Properly in /var/www/services/personnelDB/include/handlers.php on line 86
+[09-Nov-2012 16:01:34] PHP Notice:  E_NAME: MCR in /var/www/services/personnelDB/include/handlers.php on line 87
+[09-Nov-2012 16:01:34] PHP Notice:  IDSTR:  in /var/www/services/personnelDB/include/handlers.php on line 88
+[09-Nov-2012 16:01:34] PHP Fatal error:  Uncaught exception 'Exception' with message 'Attempt to create unknown store type: ' in /var/www/lib/personnelDB/PersonnelDB.php:163
+Stack trace:
+#0 /var/www/services/personnelDB/include/handlers.php(97): PersonnelDB\PersonnelDB->__get('')
+#1 [internal function]: getEntityByAcronym(Object(WSWG\RESTServer), Array)
+#2 /var/www/lib/RESTServer/RESTServer.php(128): call_user_func_array('getEntityByAcro...', Array)
+#3 /var/www/services/personnelDB/server.php(60): WSWG\RESTServer->processCurrentRequest()
+#4 {main}
+  thrown in /var/www/lib/personnelDB/PersonnelDB.php on line 163
+[09-Nov-2012 16:02:38] PHP Notice:  ARGS: Array in /var/www/services/personnelDB/include/handlers.php on line 83
+[09-Nov-2012 16:02:38] PHP Notice:  Undefined offset: 1 in /var/www/services/personnelDB/include/handlers.php on line 84
+[09-Nov-2012 16:02:38] PHP Notice:  Made It To handlers Properly in /var/www/services/personnelDB/include/handlers.php on line 87
+[09-Nov-2012 16:02:38] PHP Notice:  E_NAME: LUQ in /var/www/services/personnelDB/include/handlers.php on line 88
+[09-Nov-2012 16:02:38] PHP Notice:  IDSTR:  in /var/www/services/personnelDB/include/handlers.php on line 89
+[09-Nov-2012 16:02:38] PHP Fatal error:  Uncaught exception 'Exception' with message 'Attempt to create unknown store type: ' in /var/www/lib/personnelDB/PersonnelDB.php:163
+Stack trace:
+#0 /var/www/services/personnelDB/include/handlers.php(98): PersonnelDB\PersonnelDB->__get('')
+#1 [internal function]: getEntityByAcronym(Object(WSWG\RESTServer), Array)
+#2 /var/www/lib/RESTServer/RESTServer.php(128): call_user_func_array('getEntityByAcro...', Array)
+#3 /var/www/services/personnelDB/server.php(60): WSWG\RESTServer->processCurrentRequest()
+#4 {main}
+  thrown in /var/www/lib/personnelDB/PersonnelDB.php on line 163
+[09-Nov-2012 16:03:07] PHP Notice:  ARGS: 1 in /var/www/services/personnelDB/include/handlers.php on line 83
+[09-Nov-2012 16:03:07] PHP Notice:  Undefined offset: 1 in /var/www/services/personnelDB/include/handlers.php on line 84
+[09-Nov-2012 16:03:07] PHP Notice:  Made It To handlers Properly in /var/www/services/personnelDB/include/handlers.php on line 87
+[09-Nov-2012 16:03:07] PHP Notice:  E_NAME: VCR in /var/www/services/personnelDB/include/handlers.php on line 88
+[09-Nov-2012 16:03:07] PHP Notice:  IDSTR:  in /var/www/services/personnelDB/include/handlers.php on line 89
+[09-Nov-2012 16:03:07] PHP Fatal error:  Uncaught exception 'Exception' with message 'Attempt to create unknown store type: ' in /var/www/lib/personnelDB/PersonnelDB.php:163
+Stack trace:
+#0 /var/www/services/personnelDB/include/handlers.php(98): PersonnelDB\PersonnelDB->__get('')
+#1 [internal function]: getEntityByAcronym(Object(WSWG\RESTServer), Array)
+#2 /var/www/lib/RESTServer/RESTServer.php(128): call_user_func_array('getEntityByAcro...', Array)
+#3 /var/www/services/personnelDB/server.php(60): WSWG\RESTServer->processCurrentRequest()
+#4 {main}
+  thrown in /var/www/lib/personnelDB/PersonnelDB.php on line 163
+[09-Nov-2012 16:04:56] PHP Notice:  ARGS: Array
+(
+    [0] => SGS
+)
+ in /var/www/services/personnelDB/include/handlers.php on line 83
+[09-Nov-2012 16:04:56] PHP Notice:  Undefined offset: 1 in /var/www/services/personnelDB/include/handlers.php on line 84
+[09-Nov-2012 16:04:56] PHP Notice:  Made It To handlers Properly in /var/www/services/personnelDB/include/handlers.php on line 87
+[09-Nov-2012 16:04:56] PHP Notice:  E_NAME: SGS in /var/www/services/personnelDB/include/handlers.php on line 88
+[09-Nov-2012 16:04:56] PHP Notice:  IDSTR:  in /var/www/services/personnelDB/include/handlers.php on line 89
+[09-Nov-2012 16:04:56] PHP Fatal error:  Uncaught exception 'Exception' with message 'Attempt to create unknown store type: ' in /var/www/lib/personnelDB/PersonnelDB.php:163
+Stack trace:
+#0 /var/www/services/personnelDB/include/handlers.php(99): PersonnelDB\PersonnelDB->__get('')
+#1 [internal function]: getEntityByAcronym(Object(WSWG\RESTServer), Array)
+#2 /var/www/lib/RESTServer/RESTServer.php(128): call_user_func_array('getEntityByAcro...', Array)
+#3 /var/www/services/personnelDB/server.php(60): WSWG\RESTServer->processCurrentRequest()
+#4 {main}
+  thrown in /var/www/lib/personnelDB/PersonnelDB.php on line 163
+[09-Nov-2012 16:05:57] PHP Notice:  ARGS: Array
+(
+    [0] => SBC
+)
+ in /var/www/services/personnelDB/include/handlers.php on line 87
+[09-Nov-2012 16:05:57] PHP Notice:  Undefined offset: 1 in /var/www/services/personnelDB/include/handlers.php on line 88
+[09-Nov-2012 16:05:57] PHP Notice:  Made It To handlers Properly in /var/www/services/personnelDB/include/handlers.php on line 91
+[09-Nov-2012 16:05:57] PHP Notice:  E_NAME: SBC in /var/www/services/personnelDB/include/handlers.php on line 92
+[09-Nov-2012 16:05:57] PHP Notice:  IDSTR:  in /var/www/services/personnelDB/include/handlers.php on line 93
+[09-Nov-2012 16:05:57] PHP Fatal error:  Uncaught exception 'Exception' with message 'Attempt to create unknown store type: ' in /var/www/lib/personnelDB/PersonnelDB.php:163
+Stack trace:
+#0 /var/www/services/personnelDB/include/handlers.php(103): PersonnelDB\PersonnelDB->__get('')
+#1 [internal function]: getEntityByAcronym(Object(WSWG\RESTServer), Array)
+#2 /var/www/lib/RESTServer/RESTServer.php(128): call_user_func_array('getEntityByAcro...', Array)
+#3 /var/www/services/personnelDB/server.php(60): WSWG\RESTServer->processCurrentRequest()
+#4 {main}
+  thrown in /var/www/lib/personnelDB/PersonnelDB.php on line 163
+[09-Nov-2012 16:06:10] PHP Notice:  ARGS: Array
+(
+    [0] => site
+    [1] => 335
+)
+ in /var/www/services/personnelDB/include/handlers.php on line 58
+[09-Nov-2012 16:06:10] PHP Notice:  Made It To handlers Properly in /var/www/services/personnelDB/include/handlers.php on line 60
+[09-Nov-2012 16:06:10] PHP Notice:  E_NAME: site in /var/www/services/personnelDB/include/handlers.php on line 61
+[09-Nov-2012 16:06:10] PHP Notice:  IDSTR: 335 in /var/www/services/personnelDB/include/handlers.php on line 62
+[09-Nov-2012 16:06:11] PHP Notice:  Made It To PersonnelDB.php in /var/www/lib/personnelDB/PersonnelDB.php on line 93
+[09-Nov-2012 16:06:11] PHP Notice:  Made It To PersonnelDB.php 1 in /var/www/lib/personnelDB/PersonnelDB.php on line 95
+[09-Nov-2012 16:06:11] PHP Notice:  Made It To PersonnelDB.php 2 in /var/www/lib/personnelDB/PersonnelDB.php on line 97
+[09-Nov-2012 16:07:35] PHP Notice:  ARGS: Array
+(
+    [0] => site
+    [1] => PAL
+)
+ in /var/www/services/personnelDB/include/handlers.php on line 87
+[09-Nov-2012 16:07:35] PHP Notice:  Made It To handlers Properly in /var/www/services/personnelDB/include/handlers.php on line 91
+[09-Nov-2012 16:07:35] PHP Notice:  E_NAME: site in /var/www/services/personnelDB/include/handlers.php on line 92
+[09-Nov-2012 16:07:35] PHP Notice:  IDSTR: PAL in /var/www/services/personnelDB/include/handlers.php on line 93
+[09-Nov-2012 16:07:35] PHP Notice:  Made It To getByAcronym Function in /var/www/lib/personnelDB/stores/SiteStore.php on line 47
+[09-Nov-2012 16:07:35] PHP Notice:  getByAcronym List: Array in /var/www/lib/personnelDB/stores/SiteStore.php on line 49
+[09-Nov-2012 16:07:35] PHP Notice:  Made It To PersonnelDB.php in /var/www/lib/personnelDB/PersonnelDB.php on line 93
+[09-Nov-2012 16:07:35] PHP Notice:  Made It To PersonnelDB.php 1 in /var/www/lib/personnelDB/PersonnelDB.php on line 95
+[09-Nov-2012 16:07:35] PHP Notice:  Made It To PersonnelDB.php 2 in /var/www/lib/personnelDB/PersonnelDB.php on line 97
+[09-Nov-2012 16:07:48] PHP Notice:  ARGS: Array
+(
+    [0] => site
+    [1] => NTL
+)
+ in /var/www/services/personnelDB/include/handlers.php on line 87
+[09-Nov-2012 16:07:48] PHP Notice:  Made It To handlers Properly in /var/www/services/personnelDB/include/handlers.php on line 91
+[09-Nov-2012 16:07:48] PHP Notice:  E_NAME: site in /var/www/services/personnelDB/include/handlers.php on line 92
+[09-Nov-2012 16:07:48] PHP Notice:  IDSTR: NTL in /var/www/services/personnelDB/include/handlers.php on line 93
+[09-Nov-2012 16:07:48] PHP Notice:  Made It To getByAcronym Function in /var/www/lib/personnelDB/stores/SiteStore.php on line 47
+[09-Nov-2012 16:07:48] PHP Notice:  getByAcronym List: Array in /var/www/lib/personnelDB/stores/SiteStore.php on line 49
+[09-Nov-2012 16:07:48] PHP Notice:  Made It To PersonnelDB.php in /var/www/lib/personnelDB/PersonnelDB.php on line 93
+[09-Nov-2012 16:07:48] PHP Notice:  Made It To PersonnelDB.php 1 in /var/www/lib/personnelDB/PersonnelDB.php on line 95
+[09-Nov-2012 16:07:48] PHP Notice:  Made It To PersonnelDB.php 2 in /var/www/lib/personnelDB/PersonnelDB.php on line 97
+[09-Nov-2012 16:10:17] PHP Notice:  Made It To PersonnelDB.php in /var/www/lib/personnelDB/PersonnelDB.php on line 93
+[09-Nov-2012 16:10:17] PHP Notice:  Made It To PersonnelDB.php 1 in /var/www/lib/personnelDB/PersonnelDB.php on line 95
+[09-Nov-2012 16:10:17] PHP Notice:  Made It To PersonnelDB.php 2 in /var/www/lib/personnelDB/PersonnelDB.php on line 97
+[12-Nov-2012 18:00:04] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /var/www/services/personnelDB/include/utils.php on line 57
+[12-Nov-2012 18:01:49] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /var/www/services/personnelDB/include/utils.php on line 57
+[12-Nov-2012 18:03:51] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /var/www/services/personnelDB/include/utils.php on line 57
+[12-Nov-2012 18:05:44] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /var/www/services/personnelDB/include/utils.php on line 57
+[12-Nov-2012 18:06:28] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /var/www/services/personnelDB/include/utils.php on line 57
+[12-Nov-2012 18:07:01] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /var/www/services/personnelDB/include/utils.php on line 57
+[12-Nov-2012 18:07:57] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /var/www/services/personnelDB/include/utils.php on line 57
+[12-Nov-2012 18:08:49] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /var/www/services/personnelDB/include/utils.php on line 57
+[12-Nov-2012 18:11:48] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /var/www/services/personnelDB/include/utils.php on line 57
+[12-Nov-2012 18:19:47] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /var/www/services/personnelDB/include/utils.php on line 57
+[12-Nov-2012 18:23:48] PHP Warning:  DOMDocument::loadXML(): Empty string supplied as input in /var/www/services/personnelDB/include/utils.php on line 57
